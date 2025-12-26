@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=200&section=header&text=%20Steferson%20Ryan%20&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=200&section=header&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35)
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=9E86FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Computer+Vision+%7C+LLMs+%7C+AI+Systems;Engineering+%7C+Research+%7C+Applied+AI" />
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefersonsrryan@gmail.com)
